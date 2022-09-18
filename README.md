@@ -1,7 +1,2 @@
 # github-final-project
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+Hosting the sample code, script, as well as follow best practices introduced in the GitHub course
